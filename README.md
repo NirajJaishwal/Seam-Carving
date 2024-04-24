@@ -19,5 +19,5 @@ Niraj Jaishwal
 Contact: nkj5@uakron.edu
 
 ## Acknowledgments
-- Special thanks to [Professor Duan]([https://example.com/prof-smith](https://www.uakron.edu/ib/faculty-staff/faculty-detail.dot?u=duan) for guidance and inspiration.
+- Special thanks to [Professor Duan](https://www.uakron.edu/ib/faculty-staff/faculty-detail.dot?u=duan) for guidance and inspiration.
 
